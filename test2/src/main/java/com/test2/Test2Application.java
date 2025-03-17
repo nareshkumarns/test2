@@ -1,6 +1,8 @@
 class A{
  
 class B{
+ welocome 
+ Bangalore
 
 }
 
