@@ -1,6 +1,7 @@
 class A{
  
 class B{
+ Ooty
  welocome 
  Bangalore
 
